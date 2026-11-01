@@ -4,6 +4,6 @@
   "version": "1.0.0",
   "minAppVersion": "1.4.0",
   "description": "Modular enabling and disabling of vault folders (unloading them from the index) to speed up indexing and to switch between work contexts.",
-  "author": "you",
+  "author": "kuumeunta",
   "isDesktopOnly": false
 }
