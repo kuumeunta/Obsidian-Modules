@@ -1,0 +1,5 @@
+.vm-modal .vm-toolbar { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; }
+.vm-modal .vm-state-unloaded .setting-item-name { opacity: 0.6; }
+.vm-modal .vm-badge { font-size: var(--font-ui-smaller); padding: 1px 6px; border-radius: 8px; margin-left: 6px; background: var(--background-modifier-border); }
+.vm-modal .vm-badge-warn { background: var(--background-modifier-error); color: var(--text-on-accent); }
+.vm-status { cursor: pointer; }
